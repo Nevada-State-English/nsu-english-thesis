@@ -4,4 +4,5 @@ layout: browse
 permalink: /browse.html
 ---
 
-## Browse Items
+## Look at the collection
+Here is some stuff you can browse.
