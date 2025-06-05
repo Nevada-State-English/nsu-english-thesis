@@ -1,8 +1,8 @@
 ---
-title: Browse
+title: Collection
 layout: browse
 permalink: /browse.html
 ---
 
 ## Look at the collection
-Here is some stuff you can browse.
+Review all items in the collection here.
