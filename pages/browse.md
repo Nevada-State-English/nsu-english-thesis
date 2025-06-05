@@ -4,5 +4,5 @@ layout: browse
 permalink: /browse.html
 ---
 
-## Look at the collection
-Review all items in the collection here.
+## Browse the entire collection
+Review all theses, photographs, and related item here.

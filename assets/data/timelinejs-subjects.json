@@ -13,8 +13,8 @@
           "credit": {{ site.title | jsonify }}
         },
         "text": {
-          "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": {{ site.description | jsonify }}
+          "headline": "my title",
+          "text": "my description"
         }
     },
     "events": [
@@ -32,8 +32,8 @@
           "year": "{{ item.subject_date }}"{% endif %}
         },
         "text": {
-          "headline": {{ item.title | jsonify }}{% if item.subject_date_notes %},
-          "text": {{ item.subject_date_notes | jsonify }}{% endif %}
+          "headline": {{ item.subject_date_notes | jsonify }}{% if item.subject_date_notes %},
+          "text": {{ item.title | jsonify }}{% endif %}
         }
       }{% unless forloop.last %},{% endunless %}{% endfor %}
     ]

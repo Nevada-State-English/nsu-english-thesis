@@ -22,13 +22,13 @@ padding: 6em
 
 This is a collection of honors theses written by students in the Nevada State University English program from 2017 to the present day. The collection also includes photographs from students’ honors thesis defenses. You can download PDFs of the theses, or go directly to related thesis materials students made.
 
-The collection also visualizes information about the theses. You can explore a timeline of when the projects were developed, as well as locations that were central to students’ research. The "subject timeline" allows you to explore key dates of material that is researched in the corresponding thesis.
+In the "explore" tab of this site, you can see different visualizations of information about these projects. You can explore a timeline of when the projects were developed, as well as locations that were central to students’ research. The "subject timeline" allows you to explore key dates of material that is researched in the corresponding thesis.
 
 ## What is an Honors Thesis?
 
 An honors thesis is an in-depth research project for advanced English majors. Students may choose to complete a thesis directly in their primary area of study, or they may choose to develop a hybrid project. 
 
-## What process did students undertake to develop an Honors Thesis?
+## Thesis Development Process
 
 ### Brainstorming
 At least one semester prior to their enrollment in the Honors Thesis course (ENG 498), students begin the process of brainstorming the focus of their thesis. Some students choose to develop in more depth a project they’ve already worked on in another class; some students choose to begin a new project on something they haven’t had an opportunity to explore in another class setting. Students also select a primary project advisor during this stage.
