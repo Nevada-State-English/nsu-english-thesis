@@ -18,52 +18,38 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-# Heading 1
-## Heading 2
-
-This is a paragraph. This will be a paragraph about the theses. 
-This is not a new paragraph.
-This is also not a new paragraph.
-
-This should be a new paragraph. After two asterkisks, a word should become **bold**. After two little arrows, a word should be <italicized>.
-
-A hyperlink will look like this. First, a bracket. [This will be the text that will have the hyperlink embedded](https://www.loc.gov/)
-
-An unordered list will be like this. A dash, then a space, then enter. A blank link above and below.
-
-- One Item
-- Another Item
-- A third item. 
-
-Similar for an ordered list. 
-
-1. number one
-2. number two
-3. the third item on the list.
-
-{% include feature/alert.html text="This is an alert as an example of liquid" color="primary" align="center" %}
-
-{% include feature/image.html objectid="ht020" %}
-{% include feature/image.html objectid="ht021" %}
-
-Let's have some more text here.
-
-{% include feature/card.html text="It's a wild and crazy time!" header="What do students have to say about this process?" objectid="ht017" %}
-
 ## About This Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This is a collection of honors theses written by students in the Nevada State University English program from 2017 to the present day. The collection also includes photographs from students’ honors thesis defenses. You can download PDFs of the theses, or go directly to related thesis materials students made.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The collection also visualizes information about the theses. You can explore a timeline of when the projects were developed, as well as locations that were central to students’ research. The "subject timeline" allows you to explore key dates of material that is researched in the corresponding thesis.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## What is an Honors Thesis?
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+An honors thesis is an in-depth research project for advanced English majors. Students may choose to complete a thesis directly in their primary area of study, or they may choose to develop a hybrid project. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## What process did students undertake to develop an Honors Thesis?
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+### Brainstorming
+At least one semester prior to their enrollment in the Honors Thesis course (ENG 498), students begin the process of brainstorming the focus of their thesis. Some students choose to develop in more depth a project they’ve already worked on in another class; some students choose to begin a new project on something they haven’t had an opportunity to explore in another class setting. Students also select a primary project advisor during this stage.
+
+
+### Proposal
+Once students have selected a focus for their thesis, they develop a full proposal that addresses their topic, methodology, project exigence, provisional project timeline, and initial bibliography. They submit this proposal to their primary project advisor.
+
+
+{% include feature/card.html text="It's a wild and crazy time!" header="What do students have to say about this process?"%}
+
+
+### Preparation
+Some projects may require time beyond a single semester to develop and complete. Students may choose to complete an independent study prior to their Honors Thesis enrollment semester if this is the case. If a student’s research involves human subjects (interviews or surveys), then they complete an IRB application and certification prior to the semester in which they are enrolled in their thesis course (ENG 498). 
+
+
+### Research and writing
+Students officially enroll in the Honors Thesis course, ENG 498, during the semester in which they will be doing the bulk of their research and writing. They work weekly with their primary advisor to advance their project.
+
+
+### Defense
+At the end of the semester in which they are enrolled in the Honors Thesis course (ENG 498), students complete their theses by defending it to a committee of faculty mentors and experts. Students select their committee members to represent faculty who have helped shape their thinking as undergraduates and/or faculty who hold expertise on the subject of their research. 
+
 
