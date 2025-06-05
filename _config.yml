@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://mollyappel.github.io
+url: https://nevada-state-english.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /nsu-english-thesis
 # location of code, the full url to your github repository
-source-code: https://github.com/mollyappel/nsu-english-thesis
+source-code: https://github.com/nevada-state-english/nsu-english-thesis
 
 ##########
 # SITE SETTINGS
