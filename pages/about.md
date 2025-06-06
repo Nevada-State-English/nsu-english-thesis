@@ -9,16 +9,16 @@ about-featured-image: ht024
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: About This Repository
 # paragraph text below heading in featured image
-sub-heading: What are we looking at here?
+sub-heading: Learn how to explore this repository and how honors thesis research develops.
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About This Collection
+## About This Repository
 
 This is a collection of honors theses written by students in the Nevada State University English program from 2017 to the present day. The collection also includes photographs from students’ honors thesis defenses. You can download PDFs of the theses, or go directly to related thesis materials students made.
 
