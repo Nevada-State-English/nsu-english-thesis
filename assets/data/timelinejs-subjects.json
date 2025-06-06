@@ -13,8 +13,8 @@
           "credit": {{ site.title | jsonify }}
         },
         "text": {
-          "headline": "my title",
-          "text": "my description"
+          "headline": "Explore key historical moments related to these projects",
+          "text": "Scroll through this timeline to discover the research connected to each date."
         }
     },
     "events": [
