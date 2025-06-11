@@ -4,4 +4,5 @@ description,,,true,
 creator,Creator,,,
 subject,,true
 location,,true,,,Location Depicted
+method,,true
 identifier,,,true,Identifier

@@ -38,6 +38,13 @@ subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
+# METHODS PAGE
+#
+methods-fields: methodology # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+methods-min: 1 # min size for subject cloud, too many terms = slow load time!
+methods-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+
+##########
 # LOCATIONS PAGE
 #
 locations-fields: location # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
@@ -70,7 +77,7 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,creator,date,description,subject,methodology,field,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 

@@ -5,4 +5,4 @@ permalink: /browse.html
 ---
 
 ## Browse the entire collection
-Review all theses, photographs, and related item here.
+Review all theses, photographs, and related items here.
